@@ -1,0 +1,28 @@
+.second-p {
+    font-family: 'Courier';
+    color: indigo;
+}
+
+.first-p {
+    font-style: italic;
+}
+
+.number4 {
+    font-size: 120%;
+    font-family: monospace;
+    color: greenyellow;
+}
+
+.wrapper {
+    margin: 200px 100px 50px 100px;
+    padding: 10px 10px 10px 10px;
+}
+
+@media (max-width: 800px) and (min-width: 600px) {
+    .number4 {
+        color: hotpink;
+    }
+    p {
+        font-size: 10px;
+    }
+}

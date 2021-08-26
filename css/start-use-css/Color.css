@@ -1,0 +1,43 @@
+.wrapper {
+    margin: 50px 100px 50px 100px; 
+    padding: 100px 200 100 200;
+}
+
+h1 {
+    color: teal;
+}
+
+h2 {
+    font-family: 'Times New Roman';
+    font-style: italic;
+    font-size: 20px;
+    color: aqua;
+}
+
+h3 {
+    font-family: serif;
+    color: coral;
+}
+.first-p {
+    font: ;
+    line-height: 30px;
+    font-family: Arial;
+    font-size: 15px;
+    color: darkgoldenrod;
+}
+
+.second-p {
+    line-height: 30px;
+    font-family: Arial;
+    font-size: 15px;
+    font-style: italic;
+    color: crimson;
+}
+
+.third-p {
+    line-height: 30px;
+    font-family: Arial;
+    font-size: 15px;
+    font-style: italic;
+    color: darkmagenta;
+}
