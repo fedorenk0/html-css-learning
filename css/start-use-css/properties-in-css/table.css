@@ -1,3 +1,15 @@
-.table {
-    float: left;
+.wrapper {
+    width: 300px;
+}
+
+.first-p {
+    color: aqua;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.second-p {
+    color: crimson;
+    font-weight: initial;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
