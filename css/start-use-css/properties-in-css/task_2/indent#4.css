@@ -1,0 +1,14 @@
+.img-1 {
+    float: left;
+    margin-right: 20px;
+}
+
+.img-2 {
+    float: right;
+    margin-left: 20px;
+}
+
+.first-p {
+    text-align: justify;
+    width: 600 px;
+}
