@@ -14,3 +14,9 @@
     font-weight: initial;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.t {
+    border: 5px;
+    width: 400px; 
+    height: 200px;
+}
