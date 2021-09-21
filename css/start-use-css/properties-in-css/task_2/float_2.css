@@ -1,0 +1,13 @@
+.d {
+    text-align: justify;
+    border: 1px solid red;
+    border-radius: 10px;
+    width: 700px;
+    margin: 50px auto;
+    padding: 30px;
+}
+
+.h {
+    font-size: 2em;
+    font-weight: bold;
+}
