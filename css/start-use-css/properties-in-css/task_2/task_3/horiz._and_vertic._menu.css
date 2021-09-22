@@ -1,13 +1,13 @@
-#menu ul {
+.menu ul {
     list-style-type: none;
     width: 200px;
 }
 
-#menu li {
+.menu li {
     margin-bottom: 5px;
 }
 
-.a {
+.wrapper {
     text-decoration: none;
     color: white;
     font: 13px Arial;
